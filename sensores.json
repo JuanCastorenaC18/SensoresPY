@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "625c6e50d531fc8ad3fe7d91",
+        "id": 1,
+        "pin": [
+            {
+                "trigger": 23,
+                "echo": 24,
+                "_id": "625c6e50d531fc8ad3fe7d92"
+            }
+        ],
+        "tipo": "US",
+        "clave": "Ultrasonico medida"
+    },
+    {
+        "_id": "625c9bdad531fc8ad3fe7dfd",
+        "id": 2,
+        "pin": [
+            {
+                "trigger": 4,
+                "_id": "625df3a11fad7e73e08e902e"
+            }
+        ],
+        "tipo": "TEMP",
+        "clave": "Temperatura de dispensador"
+    },
+    {
+        "_id": "625c9c13d531fc8ad3fe7e00",
+        "id": 3,
+        "pin": [
+            {
+                "trigger": 6,
+                "_id": "625cab1dd531fc8ad3fe7e27"
+            }
+        ],
+        "tipo": "GAS",
+        "clave": "Gas"
+    },
+    {
+        "_id": "625c9c4fd531fc8ad3fe7e03",
+        "id": 4,
+        "pin": [
+            {
+                "trigger": 5,
+                "_id": "625cababd531fc8ad3fe7e43"
+            }
+        ],
+        "tipo": "PIR",
+        "clave": "Detector de movimiento"
+    },
+    {
+        "_id": "625df3fc1fad7e73e08e9031",
+        "id": 5,
+        "pin": [
+            {
+                "trigger": 4,
+                "_id": "625df3fc1fad7e73e08e9032"
+            }
+        ],
+        "tipo": "HUM",
+        "clave": "Humedad Dispenador"
+    },
+    {
+        "_id": "625fa72f17e0b46609fa2d51",
+        "id": 7,
+        "pin": [
+            {
+                "trigger": 19,
+                "_id": "625fa72f17e0b46609fa2d52"
+            }
+        ],
+        "tipo": "HUM",
+        "clave": "Humedad Secundario"
+    },
+    {
+        "_id": "625fa75917e0b46609fa2d8d",
+        "id": 6,
+        "pin": [
+            {
+                "trigger": 19,
+                "_id": "625fa75917e0b46609fa2d8e"
+            }
+        ],
+        "tipo": "TEMP",
+        "clave": "Temperatura Secundario"
+    }
+]
